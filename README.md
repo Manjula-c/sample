@@ -1,7 +1,7 @@
-# sample 1
-sample 1 project to demonstrate creation of repository
-author Manjula
-rollno : 245N1F0025
-address:plvd
-anmk
+#Sample1
+Sample1 project to demonstrate creation of repository
+Author name  Manjula
+Rollno:245N1F0025
+Address:plvd
+Annamacharya PG Coleege Of Computer Studies
 
